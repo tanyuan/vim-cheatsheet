@@ -15,3 +15,9 @@ For my Vim configuration see [tanyuan/vim-config](https://github.com/tanyuan/vim
 ![Do Something](https://github.com/tanyuan/vim-cheatsheet/raw/master/vim-cheat-sheet-verbs.png)
 
 ![Insert Something](https://github.com/tanyuan/vim-cheatsheet/raw/master/vim-cheat-sheet-insert.png)
+
+## License
+
+[![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+You can do whatever you want with these files.
