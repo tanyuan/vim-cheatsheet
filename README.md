@@ -18,7 +18,7 @@ For my Vim configuration see [tanyuan/vim-config](https://github.com/tanyuan/vim
 
 ## Source
 
-Images are created with Adobe Illustrator.
+Images are created with Adobe Illustrator. You can download the [AI file](vim-cheat-sheet.ai).
 
 Fonts: [Source Code Pro](https://github.com/adobe-fonts/source-code-pro) and [Gidole](https://github.com/larsenwork/Gidole)
 
